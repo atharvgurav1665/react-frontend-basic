@@ -1,2 +1,4 @@
 # react-frontend-basic
 just basic react projects i did as a practice mostly frontend.....
+
+Author : Atharv Gurav 
