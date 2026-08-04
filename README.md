@@ -1,16 +1,9 @@
-# React + Vite
+# Super_Market 
+## An online tool that helps people to save their time and energy to go into market and shop 
+### It gives you totally reliable and variety of product at one place online more 
+## Benefits :
+- It has multiple options for single products and also bargining options so more affordable and zero complexity 
+- Avalible in every city and villages too.
+- You can buy almost every kind of products from food , grossries to furniture and electronics.
+- 100% reliable and safe home delivery .
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
